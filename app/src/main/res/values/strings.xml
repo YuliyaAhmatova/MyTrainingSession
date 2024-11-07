@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="exit">Exit</string>
+    <string name="moto">"Энергия. Красота. Жизнь."</string>
+    <string name="training">Переход к тренировке</string>
+    <string name="exercises">Упражнение</string>
+    <string name="start">Начало тренировки</string>
+    <string name="exercise">Упражнение</string>
+    <string name="description">Описание</string>
+    <string name="time">Оставшееся время</string>
+    <string name="back">Вернуться</string>
+</resources>
