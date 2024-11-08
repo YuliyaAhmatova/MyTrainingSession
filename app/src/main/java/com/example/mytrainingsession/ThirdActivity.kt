@@ -74,10 +74,11 @@ class ThirdActivity : AppCompatActivity() {
             override fun onFinish() {
                 timerTV.text = "Упражнение завершено"
                 imageViewIV.visibility = View.VISIBLE
-                backButton.isEnabled = true
                 imageViewIV.setImageResource(0)
-                startButton.text = "Начало тренировки"
+                backButton.isEnabled = true
                 startButton.isEnabled = true
+                startButton.text = "Начало тренировки"
+
             }
         }.start()
     }
